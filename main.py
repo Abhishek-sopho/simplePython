@@ -15,6 +15,7 @@ if(x[1]==2):
 print x[1]
 
 print "Another list y:"
+
 #created a list of strings y
 y=['a','b']
 
