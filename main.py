@@ -23,3 +23,6 @@ print y
 y=y*2
 
 print y
+
+for _ in range(0,5):
+    print x,y
