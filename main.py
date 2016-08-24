@@ -13,3 +13,9 @@ if(x[1]==2):
     x[1]=4
 
 print x[1]
+
+print "Another list y:"
+
+y=['a','b','c']
+
+print y
