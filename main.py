@@ -16,6 +16,10 @@ print x[1]
 
 print "Another list y:"
 
-y=['a','b','c']
+y=['a','b']
+
+print y
+
+y=y*2
 
 print y
