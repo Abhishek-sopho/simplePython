@@ -34,4 +34,4 @@ a,b=b,a
 print a,b
 
 for i in x:
-    print x,
+    print i,
