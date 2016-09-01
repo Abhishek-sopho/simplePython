@@ -23,7 +23,7 @@ print y
 #used * operator on y to see its effect
 y=y*2
 
-print y
+print "bc"
 
 for _ in range(0,5):
     print x,y
