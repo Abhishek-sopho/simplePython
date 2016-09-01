@@ -32,3 +32,6 @@ a=5
 b=6
 a,b=b,a
 print a,b
+
+for i in x:
+    print x,
