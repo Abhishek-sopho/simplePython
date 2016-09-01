@@ -27,5 +27,13 @@ print y
 
 for _ in range(0,5):
     print x,y
+
+a=5
+b=6
+a,b=b,a
+print a,b
+
+for i in x:
+    print i,
     
 print "asdfasdfsadfasdfasdf"
